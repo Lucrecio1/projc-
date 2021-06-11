@@ -1,4 +1,4 @@
 # Calculadora
 ## calculadora da média semestral
 
-*Lucrecio Barnabé*
+*Lucrecio D. Barnabé* (fb)
