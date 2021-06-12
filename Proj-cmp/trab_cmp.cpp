@@ -99,7 +99,7 @@ void nota_invalidas(){ //função executada quando as notas são invalidas
 }
 main (){
        system("cls");
-       printf("A Iniciar...\n");
+       printf("A Iniciar...  (LDB)\n");
       _sleep(2000);
 	  printf("Grupo A1 de Computacao Cientifica.\n");
       _sleep(1000);
