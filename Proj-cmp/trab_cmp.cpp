@@ -65,7 +65,7 @@ void nota_invalidas(){ //função executada quando as notas são invalidas
                printf(" <%.1f>", not_trab);
            } 
           printf("\nDados invalidos");
-           _sleep(3500);
+           _sleep(3000);
  	        system("cls");      
 }
  void usando_do_while(){
@@ -99,7 +99,7 @@ void nota_invalidas(){ //função executada quando as notas são invalidas
 }
 main (){
        system("cls");
-       printf("A Iniciar...  (LDB)\n");
+       printf("A Iniciar...\n");
       _sleep(2000);
 	  printf("Grupo A1 de Computacao Cientifica.\n");
       _sleep(1000);
